@@ -1,0 +1,41 @@
+﻿ID,Address,City ,State,Zip,Deadline,Weight,Status
+1,195 W Oakland Ave,Salt Lake City,UT,84115,10:30:00 AM,21,HUB
+2,2530 S 500 E,Salt Lake City,UT,84106,EOD,44,HUB
+3,233 Canyon Rd,Salt Lake City,UT,84103,EOD,2,HUB
+4,380 W 2880 S,Salt Lake City,UT,84115,EOD,4,HUB
+5,410 S State St,Salt Lake City,UT,84111,EOD,5,HUB
+6,3060 Lester St,West Valley City,UT,84119,10:30:00 AM,88,HUB
+7,1330 2100 S,Salt Lake City,UT,84106,EOD,8,HUB
+8,300 State St,Salt Lake City,UT,84103,EOD,9,HUB
+9,300 State St,Salt Lake City,UT,84103,EOD,2,HUB
+10,600 E 900 South,Salt Lake City,UT,84105,EOD,1,HUB
+11,2600 Taylorsville Blvd,Salt Lake City,UT,84118,EOD,1,HUB
+12,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,EOD,1,HUB
+13,2010 W 500 S,Salt Lake City,UT,84104,10:30:00 AM,2,HUB
+14,4300 S 1300 E,Millcreek,UT,84117,10:30:00 AM,88,HUB
+15,4580 S 2300 E,Holladay,UT,84117,9:00:00 AM,4,HUB
+16,4580 S 2300 E,Holladay,UT,84117,10:30:00 AM,88,HUB
+17,3148 S 1100 W,Salt Lake City,UT,84119,EOD,2,HUB
+18,1488 4800 S,Salt Lake City,UT,84123,EOD,6,HUB
+19,177 W Price Ave,Salt Lake City,UT,84115,EOD,37,HUB
+20,3595 Main St,Salt Lake City,UT,84115,10:30:00 AM,37,HUB
+21,3595 Main St,Salt Lake City,UT,84115,EOD,3,HUB
+22,6351 South 900 East,Murray,UT,84121,EOD,2,HUB
+23,5100 South 2700 West,Salt Lake City,UT,84118,EOD,5,HUB
+24,5025 State St,Murray,UT,84107,EOD,7,HUB
+25,5383 South 900 East #104,Salt Lake City,UT,84117,10:30:00 AM,7,HUB
+26,5383 South 900 East #104,Salt Lake City,UT,84117,EOD,25,HUB
+27,1060 Dalton Ave S,Salt Lake City,UT,84104,EOD,5,HUB
+28,2835 Main St,Salt Lake City,UT,84115,EOD,7,HUB
+29,1330 2100 S,Salt Lake City,UT,84106,10:30:00 AM,2,HUB
+30,300 State St,Salt Lake City,UT,84103,10:30:00 AM,1,HUB
+31,3365 S 900 W,Salt Lake City,UT,84119,10:30:00 AM,1,HUB
+32,3365 S 900 W,Salt Lake City,UT,84119,EOD,1,HUB
+33,2530 S 500 E,Salt Lake City,UT,84106,EOD,1,HUB
+34,4580 S 2300 E,Holladay,UT,84117,10:30:00 AM,2,HUB
+35,1060 Dalton Ave S,Salt Lake City,UT,84104,EOD,88,HUB
+36,2300 Parkway Blvd,West Valley City,UT,84119,EOD,88,HUB
+37,410 S State St,Salt Lake City,UT,84111,10:30:00 AM,2,HUB
+38,410 S State St,Salt Lake City,UT,84111,EOD,9,HUB
+39,2010 W 500 S,Salt Lake City,UT,84104,EOD,9,HUB
+40,380 W 2880 S,Salt Lake City,UT,84115,10:30:00 AM,45,HUB
